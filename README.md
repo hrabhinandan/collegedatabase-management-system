@@ -1,5 +1,24 @@
 # collegedatabase-management-system
 
+# Installation Process
+
+Clone from github : `$ git clone git@github.com:BDMADE/college.git`
+
+Move in college local repository : `$ cd college`
+
+Install bundler : `$ gem install bundler`
+
+Install college : `$ bundle install`
+
+Database creation : `$ rake db:create`
+
+Database migrate : `$ rake db:migrate`
+
+Database seed : `$ rake db:seed`
+
+Run server : `$ rails server` or `$ rails s`
+
+
 by using php and mysqli with html
 
 # College Database System
