@@ -5,8 +5,7 @@ by using php and mysqli with html
 
 ### Snapshots:-
 
-
-![1](https://user-images.githubusercontent.com/96574240/215112070-60bb8330-414d-45f6-a890-beac44d578c0.png)
-![2](https://user-images.githubusercontent.com/96574240/215112086-c3f054f1-2a09-4517-a118-8fd97e2717dc.png)
-![3](https://user-images.githubusercontent.com/96574240/215112089-311bd076-23c6-487f-9e6a-abc2cbe265bd.png)
-![4](https://user-images.githubusercontent.com/96574240/215112095-a42c8015-aed9-4616-8774-bd31b31c8499.png)
+![1](https://user-images.githubusercontent.com/96574240/215112538-ff6e4115-2774-43a9-9194-456e80128183.png)
+![2](https://user-images.githubusercontent.com/96574240/215112572-b5d0460b-0953-4c14-993c-0b1e51f91013.png)
+![3](https://user-images.githubusercontent.com/96574240/215112599-34358faa-5b3b-45fb-948f-0e2854f6cc88.png)
+![4](https://user-images.githubusercontent.com/96574240/215112612-17eb3409-218d-487c-b036-427dc39a2be5.png)
