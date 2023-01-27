@@ -6,9 +6,7 @@ by using php and mysqli with html
 ### Snapshots:-
 
 
-![Screenshot 2023-01-27 195744](https://user-images.githubusercontent.com/96574240/215111612-7910fffe-13eb-4fe6-85e3-4752def2b740.png)
-
-![Screenshot 2023-01-27 195744](https://user-images.githubusercontent.com/96574240/215111013-6a92273e-e506-476d-9e3a-533f703db5a2.png)
-![Screenshot 2023-01-27 195758](https://user-images.githubusercontent.com/96574240/215111048-84b27068-b91b-4189-a607-e57e3c80ad3b.png)
-![Screenshot 2023-01-27 195821](https://user-images.githubusercontent.com/96574240/215111076-c86496b6-3ea7-433d-85e6-7c2bd971e6d5.png)
-![Screenshot 2023-01-27 195846](https://user-images.githubusercontent.com/96574240/215111084-80f9a90b-28c5-4e0f-bf34-d51410280598.png)
+![1](https://user-images.githubusercontent.com/96574240/215112070-60bb8330-414d-45f6-a890-beac44d578c0.png)
+![2](https://user-images.githubusercontent.com/96574240/215112086-c3f054f1-2a09-4517-a118-8fd97e2717dc.png)
+![3](https://user-images.githubusercontent.com/96574240/215112089-311bd076-23c6-487f-9e6a-abc2cbe265bd.png)
+![4](https://user-images.githubusercontent.com/96574240/215112095-a42c8015-aed9-4616-8774-bd31b31c8499.png)
