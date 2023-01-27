@@ -44,9 +44,9 @@ To run this project, you must have installed a virtual server i.e XAMPP on your 
 
 5th Step: Then, click on the databases tab
 
-6th Step: Create a database naming “imperial_college” and then click on the import tab
+6th Step: Create a database naming “collegedatabase” and then click on the import tab
 
-7th Step: Click on browse file and select “imperial_college.sql” file which is inside the “Database” folder
+7th Step: Click on browse file and select “collegedatabase.sql” file which is inside the “Database” folder
 8th Step: Click on go.
 
 
